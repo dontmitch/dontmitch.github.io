@@ -1,6 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-
+<html lang="en-US">
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,28 +11,27 @@
     <link rel="icon" type="image/png" href="/assets/images/favicon-64x64.png" sizes="64x64">
     <link rel="icon" type="image/png" href="/assets/images/favicon-32x32.png" sizes="32x32">
 
-{% seo %}
+    {% seo %}
   </head>
 
   <body>
-
     <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <h1 id="page_title">{{ page.title }}</h1>
-          <h2 id="page_description">{{ page.description }}</h2>
-        </header>
+    <div class="container">
+      <header class="inner">
+        <h1 id="page-title">{{ page.title }}</h1>
+        <h2 id="page-description">{{ page.description }}</h2>
+      </header>
     </div>
 
     <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
+    <div class="container section-wrap">
+      <section class="inner">
         {{ content }}
       </section>
     </div>
 
     <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
+    <div class="container">
       <footer class="inner">
         Written by <a href="https://mitchjlee.com">Mitch Lee</a>.
       </footer>
