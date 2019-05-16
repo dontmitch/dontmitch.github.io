@@ -5,7 +5,7 @@ date: 2019-02-16
 permalink: /2019/combining-finances
 ---
 
-![This person is reading about the ideal way to combine your finances.](https://cdn-images-1.medium.com/max/2560/1*Rka-cGjoHmoOpLLNz8ANbA.jpeg)
+![Man reading in a field](/assets/images/man-reading-in-field.jpeg)
 <span class="subtitle">This person is reading about the ideal way to combine your finances.</span>
 
 There's no question that finances are a constant source of tension and stress for most couples. In fact, it's often cited as a leading cause for divorce.
@@ -74,7 +74,7 @@ The allocations can easily be adjusted to account for how similar your spending 
 
 Here's what the flow of money looks like in practice:
 
-![A diagram of the flow of money in the "shared finances, with fun money" system.](https://cdn-images-1.medium.com/max/1200/1*ofCiA_J_7js2Bta5iFrvtg@2x.png)
+![Financial flow chart](/assets/images/financial-flow-chart.png)
 <span class="subtitle">A diagram of the flow of money in the "shared finances, with fun money" system.</span>
 
 Having outlined the system, let's test it against our three criteria:
