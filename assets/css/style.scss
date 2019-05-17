@@ -87,9 +87,10 @@ Generic Styles
 
 $background-color: #fff;
 $font-color: #1a1a1a;
+$font-size: 20px;
 
 html {
-  font-size: 18px;
+  font-size: $font-size;
 }
 
 body {
@@ -303,7 +304,7 @@ Small Device Styles
 
 @media screen and (max-width: 480px) {
   html {
-    font-size: 16px;
+    font-size: 18px;
   }
 
   .inner {
