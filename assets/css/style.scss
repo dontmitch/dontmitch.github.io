@@ -271,7 +271,7 @@ Custom Styles
   position: relative;
 }
 
-.section-wrap {
+.border-wrap {
   border-top: 1px solid #111;
   border-bottom: 1px solid #111;
 }
@@ -281,7 +281,16 @@ Custom Styles
   justify-content: center;
 }
 
-.subtitle {
+.splash {
+  width: 100vw;
+}
+
+.splash img {
+  width: 100%;
+  height: auto;
+}
+
+.subtitle, figcaption {
   display: flex;
   justify-content: center;
 

@@ -23,10 +23,19 @@
     </div>
 
     <!-- MAIN CONTENT -->
-    <div class="container section-wrap">
-      <section class="inner">
-        {{ content }}
-      </section>
+    <div class="border-wrap">
+      {% if page.splash_url %}
+        <figure class="splash">
+          <img src="{{ page.splash_url }}" alt="{{ page.splash_description }}" />
+          <figcaption>{{ page.splash_subtitle }}</figcaption>
+        </figure>
+      {% endif %}
+
+      <div class="container">
+        <section class="inner">
+          {{ content }}
+        </section>
+      </div>
     </div>
 
     <!-- FOOTER  -->
