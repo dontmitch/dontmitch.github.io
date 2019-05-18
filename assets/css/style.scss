@@ -294,6 +294,15 @@ Custom Styles
   padding: 0 0.2rem;
 }
 
+.grid {
+  display: flex;
+}
+
+.grid-item {
+  flex: 1;
+  padding: 0 0.2rem;
+}
+
 #page-title {
   font-size: 2.33rem;
   font-weight: 700;
@@ -318,5 +327,9 @@ Small Device Styles
   .inner {
     margin: 0 1.25rem;
     max-width: 480px;
+  }
+
+  .grid {
+    display: block;
   }
 }
