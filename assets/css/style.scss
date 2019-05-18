@@ -276,6 +276,11 @@ Custom Styles
   border-bottom: 1px solid #111;
 }
 
+.center {
+  display: flex;
+  justify-content: center;
+}
+
 .subtitle {
   display: flex;
   justify-content: center;
