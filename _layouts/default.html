@@ -27,7 +27,9 @@
       {% if page.splash_url %}
         <figure class="splash">
           <img src="{{ page.splash_url }}" alt="{{ page.splash_description }}" />
-          <figcaption>{{ page.splash_subtitle }}</figcaption>
+          {% if page.splash_subtitle %}
+            <figcaption>{{ page.splash_subtitle }}</figcaption>
+          {% endif %}
         </figure>
       {% endif %}
 
