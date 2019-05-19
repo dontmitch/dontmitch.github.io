@@ -1,7 +1,6 @@
 ---
 title: A newbie's guide to incorporating
-description: >-
-  Step-by-step instructions for incorporating your startup
+description: Step by step instructions for incorporating your startup
 date: 2015-10-01
 permalink: /2015/a-newbies-guide-to-incorporating
 ---

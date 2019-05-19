@@ -1,7 +1,6 @@
 ---
 title: Your first 500 users
-description: >-
-  A step by step account of Penny's early user growth
+description: A step by step account of Penny's early user growth
 date: 2015-10-06
 permalink: /2015/your-first-500-users
 ---
