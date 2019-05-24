@@ -52,7 +52,7 @@ While this is an improvement, it still gives unequal access to money. Even thoug
 
 The final approach is to throw all of your money into a shared account and split everything, no matter what type of expense it is.
 
-This is a great system _if — _and only _if_ — you have similar spending types. If both of you are savers, great! If both of you are spenders, also great (from a compatibility perspective, at least)! But if one of you likes to spend more than the other, or spends money on things the other person doesn't share an appreciation for — shoes, trips to Vegas, fancy watches — the guilt trips will only grow with time. It can also be hard to surprise your partner with gifts or experiences when everything is shared.
+This is a great system _if_ — and only _if_ — you have similar spending types. If both of you are savers, great! If both of you are spenders, also great (from a compatibility perspective, at least)! But if one of you likes to spend more than the other, or spends money on things the other person doesn't share an appreciation for — shoes, trips to Vegas, fancy watches — the guilt trips will only grow with time. It can also be hard to surprise your partner with gifts or experiences when everything is shared.
 
 More importantly, even if you and your partner have compatible spending types _right now_, those can shift over time! You might become more conservative when you start a family, or you might become more of a spender as your income rises. Just because this system works now does not mean it's the best possible approach to sharing your finances.
 
