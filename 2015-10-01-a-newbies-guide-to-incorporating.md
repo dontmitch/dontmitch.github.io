@@ -3,6 +3,7 @@ title: A newbie's guide to incorporating
 description: Step by step instructions for incorporating your startup
 date: 2015-10-01
 permalink: /2015/a-newbies-guide-to-incorporating
+redirect_from: /a-newbies-guide-to-incorporating
 ---
 
 If you're anything like me, incorporating a company is as nebulous a process as they come. And there is surprisingly sparse coverage of how companies actually get incorporated; usually it sounds more like: “Some Great Person has created Some Great Startup. They raised a lot of money. The End.”
