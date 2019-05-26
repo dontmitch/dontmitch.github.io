@@ -86,7 +86,8 @@ Generic Styles
 *******************************************************************************/
 
 $background-color: #fff;
-$font-color: #1a1a1a;
+$header-color: #1a1a1a;
+$font-color: #3a3f44;
 $font-size: 20px;
 
 html {
@@ -240,7 +241,7 @@ form {
 h1, h2, h3, h4, h5, h6 {
   margin: 0.66rem 0 0.33rem;
   font-weight: 700;
-  color:#222222;
+  color: $header-color;
 }
 
 h1 {
