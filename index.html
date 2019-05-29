@@ -1,3 +1,6 @@
+---
+---
+
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
@@ -156,46 +159,12 @@
       </header>
 
       <div class="posts">
+        {% for post in site.posts %}
         <section>
-          <a href="/2019/combining-finances">Combining finances</a>
-          <div class="description">A guide to shared finances after marriage</div>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+          <div class="description">{{ post.description }}</div>
         </section>
-        <section>
-          <a href="/2015/your-first-500-users">Your first 500 users</a>
-          <div class="description">A step by step account of Penny's early user growth</div>
-        </section>
-        <section>
-          <a href="/2016/making-an-introduction">Making an introduction</a>
-          <div class="description">It's a science, not an art</div>
-        </section>
-        <section>
-          <a href="/2016/raising-your-first-1000000">Raising your first $1,000,000</a>
-          <div class="description">Or, a beginner's guide to raising a seed round</div>
-        </section>
-        <section>
-          <a href="/2016/how-my-parents-taught-me-about-finances">How my parents taught me about finances</a>
-          <div class="description">If you will ever have kids, this is for you</div>
-        </section>
-        <section>
-          <a href="/2016/rethinking-referral-codes">Rethinking referral codes</a>
-          <div class="description">Or, 🍕💯🚀</div>
-        </section>
-        <section>
-          <a href="/2015/launching-on-product-hunt">Launching on Product Hunt</a>
-          <div class="description">The good, the bad, the ugly</div>
-        </section>
-        <section>
-          <a href="/2015/a-newbies-guide-to-incorporating">A newbie's guide to incorporating</a>
-          <div class="description">Step by step instructions for incorporating your startup</div>
-        </section>
-        <section>
-          <a href="/2016/the-economics-of-biking-to-work">The economics of biking to work</a>
-          <div class="description">It costs more than you think</div>
-        </section>
-        <section>
-          <a href="/2016/a-heat-map-of-my-life">A heat map of my life</a>
-          <div class="description">As told by the places I eat</div>
-        </section>
+        {% endfor %}
       </div>
     </main>
 
