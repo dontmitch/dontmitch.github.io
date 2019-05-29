@@ -6,6 +6,7 @@ permalink: /2016/raising-your-first-1000000
 splash_url: /assets/images/san-francisco-cityscape.jpeg
 splash_description: A picture of the San Francisco cityscape
 splash_subtitle: Photo Credit: Me!
+index_weight: 85
 ---
 
 In the fall of 2015, we raised a $1,200,000 seed round from Social Capital.

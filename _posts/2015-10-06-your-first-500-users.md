@@ -4,6 +4,7 @@ description: A step by step account of Penny's early user growth
 date: 2015-10-06
 permalink: /2015/your-first-500-users
 redirect_from: /your-first-500-users
+index_weight: 95
 ---
 
 When my cofounder Alex and I decided to take [Penny](https://www.pennyapp.io/) from fun hackathon project to real product, we knew nothing about growth.

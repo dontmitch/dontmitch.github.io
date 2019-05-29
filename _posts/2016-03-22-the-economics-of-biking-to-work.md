@@ -3,6 +3,7 @@ title: The economics of biking to work
 description: It costs more than you think
 date: 2016-03-22
 permalink: /2016/the-economics-of-biking-to-work
+index_weight: 60
 ---
 
 I enjoy being physically active and I particularly enjoy biking (the type where you use your legs to do the work).

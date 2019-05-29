@@ -3,6 +3,7 @@ title: Making an introduction
 description: It's a science, not an art
 date: 2016-03-16
 permalink: /2016/making-an-introduction
+index_weight: 90
 ---
 
 Believe it or not, there is a right and a wrong way to make an introduction. Forgive me if I come off as rant-y in what follows, but I've been on the receiving end of far too many wrong ways.

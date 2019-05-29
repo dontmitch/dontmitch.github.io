@@ -3,6 +3,7 @@ title: How my parents taught me about finances
 description: If you will ever have kids, this is for you
 date: 2016-04-05
 permalink: /2016/how-my-parents-taught-me-about-finances
+index_weight: 80
 ---
 
 It's an unfortunate fact that we overlook personal finance in today's education system. We spend months learning about Italian renaissance painters (no offense da Vinci), but rarely hear a word about how to avoid credit card debt or save for retirement.

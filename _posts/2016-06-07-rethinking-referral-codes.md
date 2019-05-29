@@ -3,6 +3,7 @@ title: Rethinking referral codes
 description: Or, 🍕💯🚀
 date: 2016-06-07
 permalink: /2016/rethinking-referral-codes
+index_weight: 75
 ---
 
 Our heads are filled with memorized sequences of letters and numbers. Passwords, social security numbers, anniversaries, phone numbers, Twitter handles… Some of those are important; others, not so much.

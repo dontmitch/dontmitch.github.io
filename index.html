@@ -159,7 +159,8 @@
       </header>
 
       <div class="posts">
-        {% for post in site.posts %}
+        {% assign sorted_posts = site.posts | sort: 'index_weight' | reverse %}
+        {% for post in sorted_posts %}
         <section>
           <a href="{{ post.url }}">{{ post.title }}</a>
           <div class="description">{{ post.description }}</div>

@@ -6,6 +6,7 @@ permalink: /2015/launching-on-product-hunt
 redirect_from: /launching-on-product-hunt
 splash_url: /assets/images/product-hunt-landing-page.png
 splash_description: Penny's Product Hunt landing page
+index_weight: 70
 ---
 
 For those of you who don't live and breathe technology, [Product Hunt](https://www.producthunt.com/) may not mean a lot to you. I'll let the venture capital firm First Round Capital [explain](http://firstround.com/review/Product-Hunt-is-Everywhere-This-is-How-It-Got-There/) its significance around the time we were starting Penny:
