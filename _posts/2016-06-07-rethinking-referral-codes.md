@@ -60,18 +60,14 @@ Sadly, this method suffers from two drawbacks. First, it can get lengthy. That's
 
 Here's my actual Uber referral code. I mean, because who actually cares about the customer experience?
 
-<span class="center">
 ![A screenshot of Uber's referral code](/assets/images/uber-referral-code.png)
-</span>
 <span class="subtitle">Is that a 0 or an O? 😑</span>
 
 To be fair, some of these companies expect you to exclusively copy and paste the code; others encourage you to share links that your friends need to follow to sign up. Suffice it to say that those are neither foolproof nor mutually exclusive approaches. You can rely on both of those techniques while also having something that's pleasant on the eyes and conducive to all varieties of sharing.
 
 We went back and forth for arguably way too long on the relative merits of each system. Then this happened:
 
-<span class="center">
-  ![A Slack message about emoji referral codes](/assets/images/slack-message.png)
-</span>
+![A Slack message about emoji referral codes](/assets/images/slack-message.png)
 <span class="subtitle">The _aha_ moment.</span>
 
 Now before you get all judgey judgey and make assumptions about my mental health, hear me out.
@@ -98,7 +94,5 @@ Moreover, there are a lot of other benefits:
 
 The icing on the cake? Emoji fit perfectly with our brand.
 
-<span class="center">
-  ![A screenshot of a Penny emoji referral code](/assets/images/penny-referral-code.png)
-</span>
+![A screenshot of a Penny emoji referral code](/assets/images/penny-referral-code.png)
 <span class="subtitle">#shipit</span>

@@ -12,9 +12,7 @@ To be clear, this is _absolutely not_ a real problem; it's a pet peeve. But, it'
 
 Finally, I'm not allowed to complain until I've made at least a half-hearted attempt to fix the situation. And I really want to complain about this… So without further ado, I present to you: **the right and wrong way to make an introduction**.
 
-<span class="center">
 ![Cartoon about shapes and sides](/assets/images/cartoon-about-sides.jpeg)
-</span>
 <span class="subtitle">You'll understand why there's a cartoon about sides in a second.</span>
 
 Broadly speaking, there are three ways to make an intro: one-sided, two-sided, or (god help us) no-sided. For the sake of discussion, let's assume that **Alex wants an intro to Carol** and that **Bob is friends with both of them**.

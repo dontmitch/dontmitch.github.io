@@ -144,6 +144,11 @@ img {
   -ms-box-shadow: 0 0 5px #ebebeb;
 }
 
+p img {
+  display: block;
+  margin: 0 auto;
+}
+
 em, cite {
   font-style: italic;
 }
@@ -290,11 +295,6 @@ Custom Styles
 .border-wrap {
   border-top: 1px solid #111;
   border-bottom: 1px solid #111;
-}
-
-.center {
-  display: flex;
-  justify-content: center;
 }
 
 .splash {
