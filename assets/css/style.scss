@@ -87,7 +87,7 @@ Generic Styles
 
 $background-color: #fff;
 $header-color: #1a1a1a;
-$font-color: #3a3f44;
+$font-color: #333;
 $font-size: 20px;
 
 html {
@@ -279,7 +279,7 @@ Custom Styles
 }
 
 .inner {
-  max-width: 720px;
+  max-width: 680px;
   flex-grow: 1;
   justify-content: flex-start;
 
