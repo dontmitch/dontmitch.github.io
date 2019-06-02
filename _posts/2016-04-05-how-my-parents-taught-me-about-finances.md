@@ -6,6 +6,9 @@ permalink: /2016/how-my-parents-taught-me-about-finances
 index_weight: 80
 ---
 
+![Piggy bank resting in hands](/assets/images/piggy-bank-in-hands.jpg)
+<span class="subtitle">This was not how they taught me about finances.</span>
+
 It's an unfortunate fact that we overlook personal finance in today's education system. We spend months learning about Italian renaissance painters (no offense da Vinci), but rarely hear a word about how to avoid credit card debt or save for retirement.
 
 If you haven't checked the internet recently, allow me to briefly recap the state of personal finance in the US: the average millennial has a savings rate of [negative 2 percent](http://www.wsj.com/articles/savings-turn-negative-for-younger-generation-1415572405), student loan debt has [increased over 50%](http://www.usnews.com/news/blogs/data-mine/2015/10/27/2014-graduates-had-highest-student-loan-debt-ever) over the last ten years and is now [over $1.5 trillion](https://www.nerdwallet.com/blog/loans/student-loans/student-loan-debt/), and those nearing retirement have [massive shortfalls](http://blogs.wsj.com/economics/2015/10/26/baby-boomers-hugely-underestimate-what-they-need-for-retirement/) in their savings.
