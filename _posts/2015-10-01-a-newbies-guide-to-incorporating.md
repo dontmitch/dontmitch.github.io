@@ -155,5 +155,3 @@ Here's a quick recap:
 | CEO conversation             | 30 min                | Priceless     |
 | Post incorporation paperwork | 1 hr                  | $299          |
 |                              | **3-5 business days** | **$680**      |
-
-Hope you found this at least somewhat interesting! As always, [feedback is welcome](https://mitchjlee.com/).

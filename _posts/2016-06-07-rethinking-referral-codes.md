@@ -102,5 +102,3 @@ The icing on the cake? Emoji fit perfectly with our brand.
   ![A screenshot of a Penny emoji referral code](/assets/images/penny-referral-code.png)
 </span>
 <span class="subtitle">#shipit</span>
-
-As always, [feedback is welcome](https://mitchjlee.com).

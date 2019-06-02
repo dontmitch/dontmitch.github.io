@@ -120,5 +120,3 @@ In a no-sided intro, you decide that you know what's best for two people and, ou
 #### Recap
 
 **There are three ways to make an intro; only two should exist; and only one is the right way. Use two-sided intros.**
-
-As always, [feedback is welcome](https://mitchjlee.com/).

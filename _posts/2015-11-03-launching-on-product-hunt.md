@@ -177,7 +177,3 @@ Alex and I posted a thank you to our Facebook group summarizing our reflections 
 All told, we had hundreds of new users sign up on the day of the launch, not to mention the stream of users that continued to find us through that post. More importantly, the feedback we got from those new users was both thoughtful and constructive.
 
 Product Hunt isn't right for every new product, but it sure got the ball rolling for us 📈
-
-<br>
-
-Hope you found this at least somewhat interesting! [Feedback and suggestions](https://mitchjlee.com) are always welcome.

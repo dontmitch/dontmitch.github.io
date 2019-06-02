@@ -98,5 +98,3 @@ To recap, here's an annotated graph of our signups over time, truncated at 500 u
 </span>
 
 If you were wondering, the 💥 at the end isn't made up. Things got pretty interesting around that time — but that's [another story](/2015/launching-on-product-hunt) entirely 😉
-
-As always, [feedback is welcome](https://mitchjlee.com/).

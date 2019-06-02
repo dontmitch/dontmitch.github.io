@@ -141,7 +141,3 @@ And that was it. Our seed round had come to close.
 It was an emotional moment for Alex and me. While money by no means implies success, the investment meant that we would have the opportunity to continue pursuing Penny full time for the next couple of years. Given how strongly we believe in the mission — increase financial literacy and make finances less stressful — that meant a lot to us.
 
 The next day, we reviewed and signed the mostly-standard paperwork to confirm the investment, the money arrived in our account the following business day, and by the morning after that we were moving 100 miles an hour on the product again.
-
-<br>
-
-Hope you found this helpful or at least interesting! As always, [feedback and suggestions](https://mitchjlee.com) are welcome.
