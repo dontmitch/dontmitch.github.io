@@ -7,10 +7,10 @@ redirect_from: /your-first-500-users
 index_weight: 95
 ---
 
+When my cofounder Alex and I decided to take [Penny](https://www.pennyapp.io/) from fun hackathon project to real product, we knew nothing about growth.
+
 ![A toddler staring up a long flight of stairs](/assets/images/first-steps.jpg)
 <span class="subtitle">This toddler is contemplating the first step.</span>
-
-When my cofounder Alex and I decided to take [Penny](https://www.pennyapp.io/) from fun hackathon project to real product, we knew nothing about growth.
 
 Sure, we had done the requisite googling on the matter to find some inspiration. When you search for things like "how to get users" or "growing your startup" or "wtf am I doing please help," you'll find no shortage of get-rich-quick type articles, businesses hawking their services, individuals peddling their expertise, and on and on.
 
