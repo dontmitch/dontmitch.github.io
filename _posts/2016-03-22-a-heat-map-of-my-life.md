@@ -6,9 +6,6 @@ permalink: /2016/a-heat-map-of-my-life
 index_weight: 55
 ---
 
-![A map of the US with stars on it](/assets/images/heat-map.png)
-<span class="subtitle">A simple looking map with curious stars scattered across it.</span>
-
 I'm an engineer. I'm also  OCD about tracking things. Combine those two traits and you get some interesting — albeit sometimes odd — results.
 
 Take, for example, the fact that I once calculated [how much I save](/2016/the-economics-of-biking-to-work) by taking my bike to work over driving, _after_ accounting for the cost of the extra food I consumed on days I biked. (Spoiler: it was a 15-mile bike ride each way, so those calories were non-trivial.)
@@ -16,6 +13,9 @@ Take, for example, the fact that I once calculated [how much I save](/2016/the-e
 So yeah, sometimes I go a little overboard with the data tracking thing. But sometimes, I can also do some cool things with that data.
 
 Case in point: creating a heat map of my life.
+
+![A map of the US with stars on it](/assets/images/heat-map.png)
+<span class="subtitle">A simple looking map with curious stars scattered across it.</span>
 
 ### Setting the stage
 
