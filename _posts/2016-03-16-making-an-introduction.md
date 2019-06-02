@@ -60,9 +60,7 @@ You might think that Alex gets what he wanted (the intro) and has no downside to
 
 If you're Alex, you shouldn't be happy with Bob either.
 
-<span class="center">
 ![A sad looking pug](/assets/images/sad-pug.jpeg)
-</span>
 <span class="subtitle">He just got a one-sided intro.</span>
 
 #### Two-Sided Intros
