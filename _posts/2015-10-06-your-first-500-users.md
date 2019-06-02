@@ -9,10 +9,10 @@ index_weight: 95
 
 When my cofounder Alex and I decided to take [Penny](https://www.pennyapp.io/) from fun hackathon project to real product, we knew nothing about growth.
 
-![A toddler staring up a long flight of stairs](/assets/images/first-steps.jpg)
-<span class="subtitle">This toddler is contemplating the first step.</span>
-
 Sure, we had done the requisite googling on the matter to find some inspiration. When you search for things like "how to get users" or "growing your startup" or "wtf am I doing please help," you'll find no shortage of get-rich-quick type articles, businesses hawking their services, individuals peddling their expertise, and on and on.
+
+![Generic chart with upwards trend](/assets/images/generic-chart.jpg)
+<span class="subtitle">If only it were this easy.</span>
 
 The problem is, most of the articles we found (1) lacked actionable content, (2) were blatant advertisements, or (3) were just plain unhelpful. They talk about going to conferences to build your network, paying for services like Salesforce, or establishing a social media presence for your new company.
 
