@@ -9,7 +9,7 @@ draft: true
 
 Software engineering jobs offer increasingly flexible working arrangements. That flexibility spans the number of hours you work each day, how frequently you work from home, and how you choose to use your vacation time.
 
-While I generally believe people should take full advantage of the flexible working arrangements available to them, the holidays tend to inspire a small subset of people to push the limits of that flexibility. It's with that in mind that I decided to try to articulate my own beliefs on the subject.
+While I generally believe people should enjoy the flexible working arrangements available to them, it's important to remain prudent. This is my attempt to characterize responsible use of flexible working arrangements.
 
 ### Pushing the limits
 
@@ -21,7 +21,7 @@ Likewise, some people flex their time when working from home to run errands or t
 
 The downside to pushing the limits on these flexible working arrangements should be obvious. It's not only unfair to your colleagues, but it can also be demotivating or frustrating to those relying on you. Put simply: **rewarding people who routinely push the limits creates a culture of jealousy or resentment, and encourages more people to follow suit**.
 
-On the other hand, if you've been working especially hard for an extended period of time or consistently work longer hours than is expected or typical, it's fair for you to be more lenient when it comes to flexing your hours or choosing to work a light day rather than take a vacation day. Similarly, don't hesitate to take a day off to deal with personal issues, clear your mind, or just recharge. In fact, doing so sets a good example for the rest of your team.
+On the other hand, if you or your team have been working especially hard for an extended period of time or consistently work longer hours than is typical, it's fair for you to be more lenient when it comes to flexing your hours or choosing to work a light day rather than take a vacation day. Similarly, don't hesitate to take a day off to deal with personal issues, clear your mind, or just recharge. In fact, doing so sets a good example for the rest of your team.
 
 ### Communication is key
 
@@ -41,7 +41,7 @@ However, there are strong diminishing returns to hours worked beyond that standa
 
 The amount of time you spend working is ultimately a function of your own priorities. You might choose to work more to accelerate your learning or to assume additional responsibilities faster. Alternatively, you might choose to stick with a regimented schedule to protect time with your family, friends, or personal passions. In any case, the decision is a personal one &mdash; you do not need to defend or explain it.
 
-### The golden rule
+### The golden rules
 
 To summarize:
 
