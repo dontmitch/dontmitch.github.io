@@ -43,6 +43,10 @@
         </figure>
       {% endif %}
 
+      {% if page.draft %}
+        <div class="notice">This post is in draft form.</div>
+      {% endif %}
+
       <div class="container">
         <section class="inner">
           {{ content }}
