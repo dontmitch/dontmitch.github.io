@@ -16,7 +16,7 @@ To quickly summarize:
 2. **Be transparent about your schedule**
 3. **Work smart _and_ hard**
 
-Let's dive into each one in turn.
+Let's dive into each one.
 
 ### Do not abuse a lenient policy
 
