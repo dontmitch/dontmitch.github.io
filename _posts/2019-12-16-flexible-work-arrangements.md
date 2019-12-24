@@ -1,10 +1,9 @@
 ---
-title: Responsible work hours
-description: Reflections on flexible working arrangements
+title: Flexible working arrangements
+description: Guidelines for responsible work schedules
 date: 2019-12-16
-permalink: /2019/responsible-work-hours
+permalink: /2019/flexible-working-arrangements
 index_weight: 50
-draft: true
 ---
 
 Software engineering jobs offer increasingly flexible working arrangements. That flexibility spans the number of hours you work each day, how frequently you work from home, and how you choose to use your remote time.
