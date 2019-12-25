@@ -1,7 +1,7 @@
 ---
 title: Raising your first $1,000,000
 description: Or, a beginner's guide to raising a seed round
-date: 2016-12-21
+date: 2016-12-21 00:00:00 -0800
 permalink: /2016/raising-your-first-1000000
 splash_url: /assets/images/san-francisco-cityscape.jpeg
 splash_description: A picture of the San Francisco cityscape

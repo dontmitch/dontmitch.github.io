@@ -1,7 +1,7 @@
 ---
 title: How my parents taught me about finances
 description: If you will ever have kids, this is for you
-date: 2016-04-05
+date: 2016-04-05 00:00:00 -0700
 permalink: /2016/how-my-parents-taught-me-about-finances
 index_weight: 80
 ---

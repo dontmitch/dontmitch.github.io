@@ -1,7 +1,7 @@
 ---
 title: Combining finances
 description: A guide to shared finances after marriage
-date: 2019-02-16
+date: 2019-02-16 00:00:00 -0800
 permalink: /2019/combining-finances
 index_weight: 100
 ---

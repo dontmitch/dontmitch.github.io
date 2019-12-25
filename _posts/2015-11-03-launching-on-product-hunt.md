@@ -1,7 +1,7 @@
 ---
 title: Launching on Product Hunt
 description: The good, the bad, the ugly
-date: 2015-11-03
+date: 2015-11-03 00:00:00 -0800
 permalink: /2015/launching-on-product-hunt
 redirect_from: /launching-on-product-hunt
 splash_url: /assets/images/product-hunt-landing-page.png

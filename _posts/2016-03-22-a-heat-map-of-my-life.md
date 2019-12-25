@@ -1,7 +1,7 @@
 ---
 title: A heat map of my life
 description: As told by the places I eat
-date: 2016-03-22
+date: 2016-03-22 00:00:00 -0700
 permalink: /2016/a-heat-map-of-my-life
 index_weight: 55
 ---

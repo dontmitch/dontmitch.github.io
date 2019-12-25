@@ -1,7 +1,7 @@
 ---
 title: Rethinking referral codes
 description: Or, 🍕💯🚀
-date: 2016-06-07
+date: 2016-06-07 00:00:00 -0700
 permalink: /2016/rethinking-referral-codes
 index_weight: 75
 ---

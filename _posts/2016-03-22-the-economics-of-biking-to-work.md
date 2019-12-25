@@ -1,7 +1,7 @@
 ---
 title: The economics of biking to work
 description: It costs more than you think
-date: 2016-03-22
+date: 2016-03-22 00:00:00 -0700
 permalink: /2016/the-economics-of-biking-to-work
 index_weight: 60
 ---

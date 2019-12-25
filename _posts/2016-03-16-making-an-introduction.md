@@ -1,7 +1,7 @@
 ---
 title: Making an introduction
 description: It's a science, not an art
-date: 2016-03-16
+date: 2016-03-16 00:00:00 -0700
 permalink: /2016/making-an-introduction
 index_weight: 90
 ---

@@ -1,7 +1,7 @@
 ---
 title: A newbie's guide to incorporating
 description: Step by step instructions for incorporating your startup
-date: 2015-10-01
+date: 2015-10-01 00:00:00 -0700
 permalink: /2015/a-newbies-guide-to-incorporating
 redirect_from: /a-newbies-guide-to-incorporating
 splash_url: /assets/images/first-steps.jpg
