@@ -2,6 +2,8 @@
 title: Flexible working arrangements
 description: Guidelines for responsible work schedules
 date: 2019-12-16 00:00:00 -0800
+seo:
+  date_modified: 2019-12-24 00:00:00 -0800
 permalink: /2019/flexible-working-arrangements
 index_weight: 50
 ---
