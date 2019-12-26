@@ -15,7 +15,7 @@ There are actually [two different classes](https://en.wikipedia.org/wiki/Empathy
 
 Note that having cognitive empathy _does not_ involve an emotional response (e.g. pity), as is the case with emotional empathy. It simply means identifying another person's perspective or mental state.
 
-Empathy in this form is a powerful muscle. It can be used to improve communication, facilitate negotiations, or develop relationships. In a work environment, use of empathy can easily cut through a whole class of problems, from the classic speaking over each other in meetings to dependency alignment during planning phases.
+Empathy in this form is a powerful muscle. It can be used to improve communication, facilitate negotiations, or develop relationships. In a work environment, use of empathy can easily cut through a whole class of problems, from the classic speaking over each other in meetings to getting several interconnected teams moving in the same direction.
 
 And as with any muscle, empathy can be strengthened through deliberate practice.
 
@@ -41,7 +41,7 @@ In those situations, reflect on the missed prediction:
 * What context might you be missing?
 * Could you have known the person would react the way they did?
 
-As you get better at predicting your coworkers' reactions, you can even start layering on predictions of the _magnitude_ of reaction. When you're consistently predicting both &mdash; that Dave would be mildly upset by the new deadline &mdash; it's time for the next level.
+As you get better at predicting your coworkers' reactions, you can even start layering on predictions of the _magnitude_ of reaction. When you're consistently predicting both &mdash; that Alice would be mildly upset by a new deadline &mdash; it's time for the next level.
 
 #### Intermediate mode
 
@@ -53,7 +53,7 @@ You might have already started doing this as part of the first version of the ex
 
 The expert version of this exercise is where things really get interesting. Your goal is to predict what people will actually _say_ in a meeting. That involves not just understanding the what and why of their reaction, but also the how: how will that reaction translate into words?
 
-This isn't as straightforward as it might seem. People don't always say what they mean or feel, especially in a work setting. Work communication tends to involve more subtlety and/or nicety. Therefore, even if you understand the what and why of a person's reaction, predicting how that translates into what they say can take serious practice.
+This isn't as straightforward as it might seem. People don't always say what they mean or feel, especially in a work setting. Work communication tends to involve more subtlety or nicety, not to mention body language. Therefore, even if you understand the what and why of a person's reaction, predicting how that translates into what they say can take serious practice.
 
 Maybe Bob suddenly starts agreeing with Carol despite appearing frustrated by her proposal. Why might that be? Perhaps he's placating Carol but actually intends to escalate the issue to their boss.
 
@@ -61,7 +61,7 @@ Maybe Bob suddenly starts agreeing with Carol despite appearing frustrated by he
 
 As you develop the ability to predict the what, why, and eventually how of people's reactions, you can start putting that empathy to work.
 
-For example, if you have a good idea that Dave will try to deflect the ask you have for him because he doesn't think the work is part of his team's charter, get ahead of it! Use your cognitive empathy to figure out how to disarm Dave's resistance before he even raises it. In this case, how might you position the ask in such a way that Dave feels it _is_ part of his team's charter?
+For example, if you have a good idea that Bob will try to deflect the ask you have for him because he doesn't think the work is part of his team's charter, get ahead of it! Use your cognitive empathy to figure out how to disarm Bob's resistance before he even raises it. In this case, how might you position the ask in such a way that Bob feels it _is_ part of his team's charter?
 
 ---
 
