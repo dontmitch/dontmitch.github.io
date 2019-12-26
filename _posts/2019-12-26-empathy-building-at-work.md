@@ -2,8 +2,8 @@
 title: Empathy building at work
 description: A simple exercise to improve communication
 permalink: /2019/empathy-building-at-work
-date: 2019-12-25 00:00:00 -0800
-index_weight: 78
+date: 2019-12-26 00:00:00 -0800
+index_weight: 85
 draft: true
 ---
 
