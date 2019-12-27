@@ -4,7 +4,6 @@ description: A simple exercise to improve communication
 permalink: /2019/empathy-building-at-work
 date: 2019-12-26 00:00:00 -0800
 index_weight: 85
-draft: true
 ---
 
 I'm a big, _big_ proponent of cultivating empathy. It's the single most important value that I have personally, it was one of the core company values at [Penny](https://pennyapp.io), and it's even one of four company values at Credit Karma (although I can take no credit for that).
