@@ -35,21 +35,32 @@ Other examples include time spent meditating for a mindfulness goal, money saved
 
 Now that you have metrics in mind that will incentivize the right behavior, it's time to translate those into actual goals.
 
-This might be the single most common thing people mess up when setting goals for the simple reason that people don't make their goals flexible enough.
+This might be the single most common thing people mess up when setting goals for the simple reason that they don't make their goals flexible enough.
 
-Consider an example of wanting to exercise more. Most people translate this to a goal along the lines of, "Go to the gym two times a week." That might seem like a reasonable goal, but what happens when you travel or you get sick and you don't make it twice in a week? Do you fail your goal?
+Consider the example of wanting to exercise more. Most people translate this to a goal along the lines of, "Go to the gym two times a week." That might seem like a reasonable goal, but what happens when you travel or you get sick and you don't make it twice in a week? Do you fail your goal?
 
-If you went two or three times every other week of the year it seems silly to fail your goal. But even if you give yourself a pass since you were sick, there's something to be said about the psychology of streaks. As soon as you go that first week without making it to the gym twice, it'll be that much easier to come up with reasons for not going to the gym twice in other weeks.
+If you went two or three times every other week of the year it seems silly to fail your goal. But even if you give yourself a pass since you were sick, there's something to be said about the psychology of streaks. As soon as you go that first week without making it to the gym twice, it'll be that much easier to come up with reasons for not going to the gym twice in other weeks. Motivation tends to drop in large steps rather than linearly.
 
-Instead, you should make your goals _flexible_. Or, as I tend to describe it, write the goals in such a way that you can still achieve them even if you fall behind at some points.
+Instead, you should make your goals _flexible_. Write them in such a way that you can still achieve each one even if you fall behind at some points.
 
-In the case the exercise goal, you could make it
+In the case of wanting to exercise more, you could make the goal, "Go to the gym an **average** of two times a week." or equivalently, "Go to the gym 104 times in the next year." It works out to the same number of gym visits and amounts to only a tiny difference in wording, but it makes all the difference in your ability to stay committed to the goal. If you happen to get off track due to a busy time at work, you have the rest of the year to get back on track.
 
-TODO!
+Writing goals like this has an added benefit: you get extra credit if you overachieve on your goal. For example, if you work your way up to going to the gym three times per week, those extra visits will help you achieve your goal earlier or build up buffer in case you get off track later in the year.
 
-Bonus: set a “realistic” goal and a “stretch” goal. If you blow past your original goal, it can be nice to have a
+In practice, writing flexible goals typically means wording them in terms of aggregates or averages — total hours, number of occurrences, average weight, total savings — over the duration of the year.
+
+Given that it can be hard to figure out the appropriate magnitude for your goal at the start of the year (I once got a little too ambitious on a push up goal and regretted it dearly), you might want to consider setting a "realistic" target and a "stretch" target. You can be more conservative with the realistic target while still giving yourself something to aim for if you happen to blow past it.
 
 ### Make them routine
 
-Frequency helps since they’ll stay on top of mind
-Update your tracking of them at most once a week, and ideally more than that until you get into a rhythm
+Finally, it's important to make your goals a part of your routine. Presumably the areas you choose to focus on for an entire year through these goals are important to you, so you should take steps to keep them top of mind.
+
+The easiest way to incorporate your goals into your routine is to log your progress regularly. Try to update your progress at least once a week, and ideally more than that until you build momentum towards them.
+
+If you have a goal to read more, log your progress each time you spend a chunk of time reading. That provides a positive feedback loop wherein your action (spending time reading) translated into progress on your goal (logging your new completion percentage in the book) which motivates you to take more action towards that goal.
+
+If you have a goal related to exercising more or getting healthier, log your progress after each workout or weigh yourself on a regular basis, respectively.
+
+### Conclusion
+
+TK: Add examples of it working for me.
