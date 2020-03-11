@@ -3,6 +3,8 @@ title: Empathy building at work
 description: A simple exercise to improve communication
 permalink: /2019/empathy-building-at-work
 date: 2019-12-26 00:00:00 -0800
+seo:
+  date_modified: 2020-03-11 00:00:00 -0800
 index_weight: 85
 ---
 
@@ -12,7 +14,7 @@ There are actually [two different classes](https://en.wikipedia.org/wiki/Empathy
 
 > **empathy [n]** - the intellectual identification of the thoughts, feelings, or state of another person
 
-Note that having cognitive empathy _does not_ involve an emotional response (e.g. pity), as is the case with emotional empathy. It simply means identifying another person's perspective or mental state.
+Note that having cognitive empathy does _not_ involve an emotional response (e.g. pity), as is the case with emotional empathy. It simply means identifying another person's perspective or mental state.
 
 Empathy in this form is a powerful muscle. It can be used to improve communication, facilitate negotiations, or develop relationships. In a work environment, use of empathy can easily cut through a whole class of problems, from the classic speaking over each other in meetings to getting several interconnected teams moving in the same direction.
 
@@ -22,31 +24,29 @@ And as with any muscle, empathy can be strengthened through deliberate practice.
 
 With that context in mind, here's one simple exercise you can use to build cognitive empathy:
 
-> Before your next meeting, try to predict how people are going to react (beginner mode) or what they’re going to say (expert mode) during the meeting.
+> Before your next meeting, try to think about the perspective of each person in the meeting (beginner mode) or predict what they’re going to say during the meeting (expert mode).
 
 #### Beginner mode
 
-The beginner version of this exercise is to predict how people will _react_ in a meeting.
+The beginner version of this exercise is to think through each person's unique perspective coming into the meeting.
 
-The exercise itself is relatively straightforward: open up your calendar for the day and write down how you expect each attendee to react in each meeting you have. You can start with basic emotions like happy, mad, or neutral and build into more nuanced reactions like eager, disinterested, surprised, or frustrated.
+The exercise itself is relatively straightforward: open up your calendar for the day and, for each meeting you have, write down why each person is in the meeting and take an educated guess at their perspective on the subject.
 
-Make sure to write your predictions down! Then, after each meeting, grade yourself against your predictions.
+You might not know those things when you first start, and that's okay! During the meetings themselves, you'll have an opportunity to compare your notes against your actual observations. That feedback loop &mdash; grading your own predictions &mdash; is what allows you to quickly strengthen and refine your cognitive empathy.
 
-If you thought Alice would be happy when you delivered your project ahead of schedule and she was, you win! If you thought Bob would be frustrated by the team's new priorities and he was, you win! If you thought Carol would be eager to work on the new project and she wasn't, that's where the muscle-building happens!
+In situations where what you wrote was incorrect (e.g. if you thought Alice would be in favor of the proposal and she wasn't) reflect on the missed prediction. What context might you be missing? Could you have made a better prediction with more careful consideration? How can you improve your predictions the next time around?
 
-In those situations, reflect on the missed prediction:
-
-* Why didn't the person react the way you expected?
-* What context might you be missing?
-* Could you have known the person would react the way they did?
-
-As you get better at predicting your coworkers' reactions, you can even start layering on predictions of the _magnitude_ of reaction. When you're consistently predicting both &mdash; that Alice would be mildly upset by a new deadline &mdash; it's time for the next level.
+This can be a challenging task, and if you struggle to see things from someone else's perspective you might spend considerable time in this beginner mode. However, if you find this exercise easy or already do it subconsciously, it's probably time to advance to the next level.
 
 #### Intermediate mode
 
-The intermediate version of this exercise is to not only predict how people will react in a meeting, but also _why_ they will react that way. Write down a few bullet points on why you expect Alice will be happy, or why you expect Bob will be frustrated.
+The intermediate version of this exercise is to predict how people will _react_ in a meeting. This naturally builds on an understanding of people's perspectives.
 
-You might have already started doing this as part of the first version of the exercise. If so, that's great! You can quickly advance to the expert version.
+You can start with basic emotions like happy, mad, or neutral and build into more nuanced reactions like eager, disinterested, surprised, or frustrated. Make sure to write your predictions down! Then, after each meeting, grade yourself against your predictions.
+
+If you thought Alice would be happy when you delivered your project ahead of schedule and she was, you win! If you thought Bob would be frustrated by the team's new priorities and he was, you win! If you thought Carol would be eager to work on the new project and she wasn't, that's once again where the muscle-building happens.
+
+As you get better at predicting your coworkers' reactions, you can even start layering on predictions of the _magnitude_ of reaction. When you're consistently predicting both &mdash; that Alice would be mildly upset by a new deadline &mdash; it's time for the final level.
 
 #### Expert mode
 
