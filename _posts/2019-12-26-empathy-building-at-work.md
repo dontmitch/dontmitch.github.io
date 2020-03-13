@@ -4,7 +4,7 @@ description: A simple exercise to improve communication
 permalink: /2019/empathy-building-at-work
 date: 2019-12-26 00:00:00 -0800
 seo:
-  date_modified: 2020-03-11 00:00:00 -0800
+  date_modified: 2020-03-13 00:00:00 -0800
 index_weight: 85
 ---
 
@@ -32,11 +32,11 @@ The beginner version of this exercise is to think through each person's unique p
 
 The exercise itself is relatively straightforward: open up your calendar for the day and, for each meeting you have, write down why each person is in the meeting and take an educated guess at their perspective on the subject.
 
-You might not know those things when you first start, and that's okay! During the meetings themselves, you'll have an opportunity to compare your notes against your actual observations. That feedback loop &mdash; grading your own predictions &mdash; is what allows you to quickly strengthen and refine your cognitive empathy.
+You might not know those things when you first start, and that's okay! During the meetings themselves, you'll have an opportunity to compare your notes against your actual observations. That feedback loop &mdash; grading your own predictions &mdash; is what allows you to start building your cognitive empathy muscle.
 
-In situations where what you wrote was incorrect (e.g. if you thought Alice would be in favor of the proposal and she wasn't) reflect on the missed prediction. What context might you be missing? Could you have made a better prediction with more careful consideration? How can you improve your predictions the next time around?
+In situations where your prediction was incorrect (e.g. if you thought Alice would be in favor of the proposal and she wasn't) reflect on the missed prediction. What context might you be missing? Could you have made a better prediction with more careful consideration? How can you improve your accuracy the next time around?
 
-This can be a challenging task, and if you struggle to see things from someone else's perspective you might spend considerable time in this beginner mode. However, if you find this exercise easy or already do it subconsciously, it's probably time to advance to the next level.
+This can be a surprisingly challenging task, and if you struggle to see things from someone else's perspective you might spend considerable time in this phase. However, if you find this exercise easy or already do it subconsciously, it's probably time to advance to the next level.
 
 #### Intermediate mode
 
@@ -46,15 +46,17 @@ You can start with basic emotions like happy, mad, or neutral and build into mor
 
 If you thought Alice would be happy when you delivered your project ahead of schedule and she was, you win! If you thought Bob would be frustrated by the team's new priorities and he was, you win! If you thought Carol would be eager to work on the new project and she wasn't, that's once again where the muscle-building happens.
 
-As you get better at predicting your coworkers' reactions, you can even start layering on predictions of the _magnitude_ of reaction. When you're consistently predicting both &mdash; that Alice would be mildly upset by a new deadline &mdash; it's time for the final level.
+As you get better at predicting your coworkers' reactions, you can even start layering on predictions of the _magnitude_ of reaction. When you're consistently predicting both &mdash; that Alice would only be mildly upset by a new deadline &mdash; it's time for the final level.
 
 #### Expert mode
 
 The expert version of this exercise is where things really get interesting. Your goal is to predict what people will actually _say_ in a meeting. That involves not just understanding the what and why of their reaction, but also the how: how will that reaction translate into words?
 
-This isn't as straightforward as it might seem. People don't always say what they mean or feel, especially in a work setting. Work communication tends to involve more subtlety or nicety, not to mention body language. Therefore, even if you understand the what and why of a person's reaction, predicting how that translates into what they say can take serious practice.
+This isn't as straightforward as it might seem. People don't always say what they mean or feel, especially in a work setting. Work communication tends to involve more subtlety or nicety, not to mention body language.
 
 Maybe Bob suddenly starts agreeing with Carol despite appearing frustrated by her proposal. Why might that be? Perhaps he's placating Carol but actually intends to escalate the issue to their boss.
+
+Therefore, even if you understand the what and why of a person's reaction, predicting how that translates into what they say can take serious practice.
 
 ### Putting empathy to work
 
