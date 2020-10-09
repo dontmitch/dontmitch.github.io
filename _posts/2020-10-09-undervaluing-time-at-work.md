@@ -2,7 +2,6 @@
 title: Undervaluing time at work
 description: The strategic value of working excess hours
 permalink: /2020/undervaluing-time-at-work
-draft: true
 date: 2020-10-08 00:00:00 -0800
 index_weight: 83
 ---
