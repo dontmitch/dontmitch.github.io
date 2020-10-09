@@ -9,7 +9,7 @@ html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
+small, strike, strong, sub, tt, var,
 b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
@@ -155,6 +155,10 @@ em, cite {
 
 strong {
   font-weight: 700;
+}
+
+sup {
+  font-size: 0.7rem;
 }
 
 pre, code {
@@ -331,6 +335,11 @@ Custom Styles
 .grid-item {
   flex: 1;
   padding: 0 0.2rem;
+}
+
+.footnote {
+  font-size: 0.8rem;
+  font-weight: 200;
 }
 
 #page-title {
