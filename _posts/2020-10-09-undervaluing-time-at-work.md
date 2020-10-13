@@ -51,7 +51,7 @@ The opposite case makes this point more obvious: if that same person starts work
 
 ### Putting excess hours to work
 
-So what does this all mean? Well, if you happen to be employed at a company with upwards mobility and where your team or company's average work volume is manageable (e.g. 40 hours a week), you might want to consider strategically working excess hours.
+So what does this all mean? Well, if you happen to be employed at a company with upwards mobility and where your team or company's average work volume is currently manageable (e.g. 40 hours a week), you might want to consider strategically working excess hours.
 
 The most obvious reason you might want to do that is to shift the trajectory of your career.
 
