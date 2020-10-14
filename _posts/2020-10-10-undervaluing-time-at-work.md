@@ -8,15 +8,13 @@ seo:
 index_weight: 83
 ---
 
-The argument that work-life balance isn’t possible or even desirable at a fast-growing company never sat well with me. It suggests a false dichotomy: you can either be successful or you can have a life, but not both. In my experience, the two are not mutually exclusive.
+While most knowledge work jobs feature occasional periods of longer hours — for example, in the run up to a product launch — the benefits of work-life balance have been proven [time](https://cs.stanford.edu/people/eroberts/cs201/projects/crunchmode/econ-crunch-mode.html) and [again](https://cdn2.hubspot.net/hubfs/156026/Top%205%20Reasons%20for%20WLB.pdf). The upside is indisputable.
 
 But this isn’t a post meant to argue in favor of work-life balance. To the contrary, the goal is to argue in favor of temporarily *forgoing* work-life balance.
 
 First, a bit of context.
 
 ### A nuanced view of work-life balance
-
-While most knowledge work jobs feature occasional periods of longer hours — for example, in the run up to a product launch — the benefits of work-life balance have been proven [time](https://cs.stanford.edu/people/eroberts/cs201/projects/crunchmode/econ-crunch-mode.html) and [again](https://cdn2.hubspot.net/hubfs/156026/Top%205%20Reasons%20for%20WLB.pdf).
 
 Given everything I had experienced and read about the benefits of work-life balance, I desperately wanted to avoid a culture of long work hours once I stepped into a manager role. As a result, I used to pressure people to go home after about 8 hours at the office.
 
@@ -68,8 +66,9 @@ The net result is that your natural career trajectory shifted up by some amount.
 That's especially true when you consider the knock on effects of a shift in trajectory. A faster-than-usual promotion might establish you as a higher performer, which in turn might translate into even more opportunities flowing your way. That completes the positive feedback loop: your hard work early on builds upwards momentum that lasts even after you stop working excess hours. (Another way of describing it is that you build a strong personal brand, and that brand continues to pay dividends even after you stop working as hard.)
 
 <svg class="line-chart"></svg>
+<figcaption>A couple well-timed periods of working excess hours can have a big impact.</figcaption>
 
-This is a contrived example, but it's useful for making a point: what matters is not the slope of the line, but rather the area under the curve. A small upwards shift in your trajectory (e.g. by building a brand of being a high performer early on in your career) can result in large differences in your lifetime earnings or impact. It's the equivalent of the value that saving a dollar today has over saving a dollar ten years from today. In this example, the lifetime earnings are almost 50% greater in the excess hours case — presumably a much larger difference than in hours worked.
+This is a contrived example, but it's useful for making a point: what matters is not the slope of the line, but rather the area under the curve. A small upwards shift in your trajectory (e.g. by building a brand of being a high performer) — especially early on in your career — can result in large differences in your lifetime earnings or impact. It's the equivalent of the value that saving a dollar today has over saving a dollar ten years from today. In this example, the lifetime earnings are almost 50% greater in the excess hours case — presumably a much larger difference than in hours worked.
 
 All that said, the implications for your career trajectory aren't the only reason you might want to work excess hours.
 
@@ -77,7 +76,7 @@ All that said, the implications for your career trajectory aren't the only reaso
 
 Especially when you're early in your career or are working in a new industry, excess hours can dramatically accelerate your learning. When I first shifted from mechanical engineering to software engineering, I put in a *lot* of hours at the company I worked for. No one was asking me to, but I was hungry to learn the craft. The excess hours allowed me to transition from a front-end web developer to a backend engineer much faster than I otherwise would have been able to manage.
 
-A final reason you might wish to work excess hours is if you're absolutely passionate about the cause. In that case, work is so rewarding that accounting for hours is an after thought. And as previously mentioned, those excess hours can increase your total impact.
+A final reason you might wish to work excess hours is if you're absolutely passionate about the cause. In that case, work is so rewarding that accounting for hours is an afterthought. And as previously mentioned, those excess hours can increase your total impact.
 
 ### Disclaimers and caveats
 
