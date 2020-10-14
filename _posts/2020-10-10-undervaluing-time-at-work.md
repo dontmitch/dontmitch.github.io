@@ -10,7 +10,7 @@ index_weight: 83
 
 While most knowledge work jobs feature occasional periods of longer hours — for example, in the run up to a product launch — the benefits of work-life balance have been proven [time](https://cs.stanford.edu/people/eroberts/cs201/projects/crunchmode/econ-crunch-mode.html) and [again](https://cdn2.hubspot.net/hubfs/156026/Top%205%20Reasons%20for%20WLB.pdf). The upside is indisputable.
 
-But this isn’t a post meant to argue in favor of work-life balance. To the contrary, the goal is to argue in favor of temporarily *forgoing* work-life balance.
+But this isn’t a post meant to argue in favor of work-life balance. To the contrary, the goal is to argue in favor of temporarily *forgoing* work-life balance<sup>[1]</sup>.
 
 First, a bit of context.
 
@@ -56,7 +56,7 @@ The most obvious reason you might want to do that is to shift the trajectory of 
 
 Imagine you put in an excess of two hours a day during your first year at a company. The result of those hours might be as follows:
 
-1. The excess hours increase your output<sup>[1]</sup> and demonstrate your dedication.
+1. The excess hours increase your output<sup>[2]</sup> and demonstrate your dedication.
 2. Due to your high output and dedication to the job, more and bigger projects flow your way faster than they otherwise would.
 3. Those projects translate into a promotion, again on a faster timeline than you would otherwise be promoted.
 4. Your promotion yields a higher salary and gives you a higher baseline when negotiating future jobs or roles.
@@ -90,7 +90,8 @@ Last, a plea for managers: if you manage other people, it's important to underst
 
 ---
 
-<div class="footnote">[1] Output per hour worked tends to decrease as you exceed 40 hours a week, but output as a whole usually goes up until you get into severely overworked situations.</div>
+<div class="footnote">[1] With <a href="#disclaimers-and-caveats">important caveats</a>.</div>
+<div class="footnote">[2] Output per hour worked tends to decrease as you exceed 40 hours a week, but output as a whole usually goes up until you get into severely overworked situations.</div>
 
 <script src="https://cdn.jsdelivr.net/npm/chart.xkcd@1.1/dist/chart.xkcd.min.js"></script>
 <script>
