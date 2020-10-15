@@ -4,7 +4,7 @@ description: The strategic value of working excess hours
 permalink: /2020/undervaluing-time-at-work
 date: 2020-10-10 00:00:00 -0800
 seo:
-  date_modified: 2020-10-13 00:00:00 -0800
+  date_modified: 2020-10-15 00:00:00 -0800
 index_weight: 83
 ---
 
@@ -24,13 +24,13 @@ That's not to say it didn't stem from good intentions: I was scared that team me
 
 Over time, I’ve revised my opinion to something more nuanced. Instead of feeling that everyone should have work-life balance and clock out after 8 hours, I now believe that everyone should have the *opportunity* for work-life balance, if they desire it.
 
-That's an important _if_. I've come to realize that there are good reasons to forgo work-life balance in favor of more work on occasion.
+That's an important *if*. I've come to realize that there are good reasons to forgo work-life balance in favor of more work on occasion.
 
 ### The strategic value of excess hours
 
 And that brings us to the heart of the argument: **people consistently undervalue excess time at work**.
 
-First, it’s important to define “excess time.” That means time above and beyond what the norm is for your company or team. If someone is on a team that works 40 hours a week, anything noticeably beyond that counts as excess time.
+First, it’s important to define "excess time." That means time above and beyond the norm for your company or team. If someone is on a team that works 45 hours a week, anything noticeably beyond that counts as excess time. Note that working excess hours does not simply mean working hard or working more than the standard 40 hours a week — it means working more than your peers.
 
 The main reason people undervalue excess time at work is because it is easy to overlook the future consequences of their work in the moment. That shouldn't be surprising: it's for the same reason that we don't always eat healthy, prioritize sleep, or save enough.
 
