@@ -3,9 +3,8 @@ title: Your writing style is costly
 description: Or, a case for using punctuation in Slack
 permalink: /2020/your-writing-style-is-costly
 date: 2020-10-14 00:00:00 -0800
-draft: true
 seo:
-  date_modified: 2020-10-14 00:00:00 -0800
+  date_modified: 2020-10-16 00:00:00 -0800
 index_weight: 84
 ---
 
