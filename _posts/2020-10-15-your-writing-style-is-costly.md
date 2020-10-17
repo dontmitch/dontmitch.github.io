@@ -8,7 +8,7 @@ seo:
 index_weight: 84
 ---
 
-**You should use punctuation in Slack.** You should also use complete sentences and proper grammar. You should expand initialisms and — when communicating emotion — even mix in some emoji for effect. You should do that not just in Slack, but in all of your professional communication.
+**You should use punctuation in Slack.** You should also use complete sentences and proper grammar. You should expand acronyms<sup>[1]</sup> and — when communicating emotion — even mix in some emoji for effect. You should do that not just in Slack, but in all of your professional communication.
 
 ---
 
@@ -51,12 +51,13 @@ Every time you take a communication shortcut, you are inflicting a micro-externa
 
 If you're communicating with a close friend and choose to use shorthand, you're probably fine. Not only will your friend probably be accustomed to it (i.e. the externality will be small), but the audience is also small (i.e. the total cost will be small). In this case, it's entirely possible your shorthand saves you more time than it costs your friend.
 
-However, when you're communicating in a one-to-many setting such as email or Slack, and particularly in a professional setting, sloppy writing has real consequences<sup>[1]</sup>. It prioritizes your time above the time of *every other person* that will be reading that message and might misinterpret your intent or tone. In aggregate, it is a net drain on productivity at your company.
+However, when you're communicating in a one-to-many setting such as email or Slack, and particularly in a professional setting, sloppy writing<sup>[2]</sup> has real consequences. It prioritizes your time above the time of *every other person* that will be reading that message and might misinterpret your intent or tone. In aggregate, it is a net drain on productivity at your company.
 
-So use proper spelling and grammar. Write out your entire thought before hitting send. Expand initialisms. Use punctuation.
+So use proper spelling and grammar. Write out your entire thought before hitting send. Expand acronyms. Use punctuation.
 
-A period, even at the end of "Knock it off," communicates, "I’ve said everything I wanted to say."
+A period, even at the end of "Do it," communicates, "I’ve said everything I wanted to say."
 
 ---
 
-<div class="footnote">[1] The term "sloppy" might sound harsh, but I chose it deliberately. Not everyone speaks the company language (e.g. English) natively, and for them using proper spelling or grammar might be challenging to say the least. The argument here is scoped to people who have some degree of mastery over the language but are being <em>sloppy</em> with their written communication, which is to say "careless and unsystematic; excessively casual".</div>
+<div class="footnote">[1] For the sticklers out there, this includes initialisms as well as acronyms.</div>
+<div class="footnote">[2] The term "sloppy" might sound harsh, but I chose it deliberately. Not everyone speaks the company language (e.g. English) natively, and for them using proper spelling or grammar might be challenging to say the least. The argument here is scoped to people who have some degree of mastery over the language but are being <em>sloppy</em> with their written communication, which is to say "careless and unsystematic; excessively casual".</div>
