@@ -4,7 +4,7 @@ description: Or, a case for using punctuation in Slack
 permalink: /2020/your-writing-style-is-costly
 date: 2020-10-14 00:00:00 -0800
 seo:
-  date_modified: 2020-10-16 00:00:00 -0800
+  date_modified: 2020-10-18 00:00:00 -0800
 index_weight: 84
 ---
 
@@ -12,7 +12,7 @@ index_weight: 84
 
 ---
 
-Written communication is hard, but in the digital-first world we work in it's also vital. Sadly, the style of communication services like Slack incentivize is awful.
+Written communication is hard, but in the digital world we work in it's also vital. Sadly, the style of communication that services like Slack incentivize is awful.
 
 To voice an opinion before the conversation moves on, you type fast and use abbreviations and hit send even with misspellings. You think one message at a time. You bounce between different threads and become easily distracted.
 
